@@ -1,4 +1,4 @@
-# HR-Analytics
+# HR-Analytics Dashboard
 A well designed interactive dashboard for tracking employees records.
 
 An HR Analytics interactive dashboard designed to provide an insights into emplyees counts and attrition rate in the company. The Dashboard provides insights to the following: 
